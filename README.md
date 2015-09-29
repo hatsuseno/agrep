@@ -132,7 +132,7 @@ Alternatives to AGREP
 * TRE is a lightweight, robust, and efficient POSIX compliant regexp matching library with some exciting features such as approximate (fuzzy) matching. 
 * AGREPY: Python port of agrep string matching with errors
 * The bitap library , another new and fresh implementation of the bitap algorithm. Windows - C - Cygwin
-* PERL module String:Approx. Perl extension for approximate matching (fuzzy matching) by Jarkko Hietaniemi, Finland
+* PERL module [String::Approx](https://metacpan.org/pod/String::Approx). Perl extension for approximate matching (fuzzy matching) by Jarkko Hietaniemi, Finland
 
 
 Further stuff with the same name (agrep)
